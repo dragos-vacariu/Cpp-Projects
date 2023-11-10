@@ -325,6 +325,7 @@ namespace calculator {
 			// 
 			// button19
 			// 
+			this->button19->ForeColor = System::Drawing::SystemColors::ActiveCaptionText;
 			this->button19->Location = System::Drawing::Point(149, 99);
 			this->button19->Name = L"button19";
 			this->button19->Size = System::Drawing::Size(37, 36);
@@ -384,7 +385,8 @@ namespace calculator {
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
 			this->Icon = (cli::safe_cast<System::Drawing::Icon^  >(resources->GetObject(L"$this.Icon")));
 			this->Name = L"Form1";
-			this->Text = L"MyCalculator";
+			this->Text = L"My Calculator";
+			this->Load += gcnew System::EventHandler(this, &Form1::Form1_Load);
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
@@ -945,6 +947,8 @@ private: System::Void button21_Click(System::Object^  sender, System::EventArgs^
 			 squareRoot=true;
 			 ProcessOperations();
 			 textBox3->Text = SConverter(num1);
+		 }
+private: System::Void Form1_Load(System::Object^  sender, System::EventArgs^  e) {
 		 }
 };
 }

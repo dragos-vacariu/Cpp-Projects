@@ -82,6 +82,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="$this.BackgroundImage.jpg" />
     <None Include="app.ico" />
     <None Include="ReadMe.txt" />
   </ItemGroup>

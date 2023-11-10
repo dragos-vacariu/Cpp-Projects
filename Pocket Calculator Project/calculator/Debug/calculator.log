@@ -1,34 +1,25 @@
-﻿Build started 02.01.2017 15:53:49.
-     1>Project "C:\Users\Black2\Desktop\projects visual studio cpp\calculator\calculator\calculator.vcxproj" on node 2 (build target(s)).
+﻿Build started 11/10/2023 2:01:46 PM.
+     1>Project "D:\codes and programming\projects visual studio c++\calculator\calculator\calculator.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\calculator.unsuccessfulbuild" because "AlwaysCreate" was specified.
        GenerateTargetFrameworkMonikerAttribute:
        Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
        ClCompile:
          All outputs are up-to-date.
-         D:\programs\microsoft visual studio 10\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\calculator.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt calculator.cpp /clr:nostdlib 
-         calculator.cpp
-     1>c:\users\black2\desktop\projects visual studio cpp\calculator\calculator\Form1.h(682): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
-     1>c:\users\black2\desktop\projects visual studio cpp\calculator\calculator\Form1.h(688): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+         All outputs are up-to-date.
          All outputs are up-to-date.
        CoreResGen:
          No resources are out of date with respect to their source files. Skipping resource generation.
        ResourceCompile:
          All outputs are up-to-date.
        Link:
-         D:\programs\microsoft visual studio 10\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Black2\Desktop\projects visual studio cpp\calculator\Debug\calculator.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Debug\calculator.Form1.resources /MANIFEST /ManifestFile:"Debug\calculator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Black2\Desktop\projects visual studio cpp\calculator\Debug\calculator.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
-         Debug\AssemblyInfo.obj
-         Debug\calculator.obj
-         Debug\stdafx.obj
-         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
-         calculator.vcxproj -> C:\Users\Black2\Desktop\projects visual studio cpp\calculator\Debug\calculator.exe
-       Manifest:
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Black2\Desktop\projects visual studio cpp\calculator\Debug\calculator.exe;#1" /manifest Debug\calculator.exe.intermediate.manifest
+         All outputs are up-to-date.
+         calculator.vcxproj -> D:\codes and programming\projects visual studio c++\calculator\Debug\calculator.exe
        FinalizeBuildStatus:
          Deleting file "Debug\calculator.unsuccessfulbuild".
          Touching "Debug\calculator.lastbuildstate".
-     1>Done Building Project "C:\Users\Black2\Desktop\projects visual studio cpp\calculator\calculator\calculator.vcxproj" (build target(s)).
+     1>Done Building Project "D:\codes and programming\projects visual studio c++\calculator\calculator\calculator.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:04.12
+Time Elapsed 00:00:00.14

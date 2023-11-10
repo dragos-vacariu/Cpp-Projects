@@ -1,1 +1,3 @@
-Video available at: https://www.youtube.com/watch?v=3-4vUMxRgto&list=PLCma1j5Hgqtct-faQ8YIU9zQpXMgiIETA&index=17
+Pocket calculator with basic functions developed in C++ using Windows Forms.
+IDE: Microsoft Visual Studio 2010
+Video available at: https://www.youtube.com/watch?v=Oh8-QlnMALA
