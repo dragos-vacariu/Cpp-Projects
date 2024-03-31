@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462374226 source:c:\users\black2\desktop\classes and objects oriented programming\classes and object mainfile.cpp
+	"classes_and_objects.h"
+
+1462374611 c:\users\black2\desktop\classes and objects oriented programming\classes_and_objects.h
+	<iostream>
+	<string>
+
+1462374611 source:c:\users\black2\desktop\classes and objects oriented programming\classes_and_objects.cpp
+	"classes_and_objects.h"
+

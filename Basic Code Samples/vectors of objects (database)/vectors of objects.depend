@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462474003 source:c:\users\black2\desktop\vectors of objects\vectors_of_objects_class.cpp
+	"vectors_of_objects_class.h"
+
+1462474003 c:\users\black2\desktop\vectors of objects\vectors_of_objects_class.h
+	<iostream>
+	<vector>
+
+1462474003 source:c:\users\black2\desktop\vectors of objects\vectors of objects mainfile.cpp
+	"vectors_of_objects_class.h"
+
